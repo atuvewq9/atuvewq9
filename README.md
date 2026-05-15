@@ -1,5 +1,6 @@
-## Hi there 👋
-<img width="1890" height="964" alt="image" src="https://github.com/user-attachments/assets/60fb10b2-ce2e-43f1-ac4e-7f38ba6f59a3" />
+## Hi there!!
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e5f94daa-e881-49b3-9361-e4900a18cfb0" />
+
 
 <!--
 **atuvewq9/atuvewq9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
